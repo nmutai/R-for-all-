@@ -1,5 +1,7 @@
 bookdown::gitbook:
   css: style.css
+  bookdown::pdf_book:
+  keep_tex: yes
   config:
     toc:
       before: |

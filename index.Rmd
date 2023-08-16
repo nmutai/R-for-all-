@@ -4,6 +4,7 @@ author: "Dr. Noah Mutai"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: pdf_document
+documentclass: book
 ---
 
 # Introduction
