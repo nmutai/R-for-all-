@@ -1,5 +1,5 @@
 --- 
-title: "R for all"
+title: "R Programming Essentials: A Comprehensive Learning Approach"
 author: "Dr. Noah Mutai"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
